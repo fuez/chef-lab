@@ -398,6 +398,8 @@ Create a new file under roles directory:
 }
 ```
 
+Upload role to chef server: `knife role from file <role file>`
+
 Add the roles to your nodes:
 ```
 C:\chef\chef-repo
